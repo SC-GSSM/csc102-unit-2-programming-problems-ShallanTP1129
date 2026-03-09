@@ -4,7 +4,7 @@ public class Unit2 {
 
     public static void main(String[] args) {
         // Test your methods here by calling them and printing the results
-    	System.out.println("Test methods here...");
+    	System.out.println( );
     }
 
     /**
